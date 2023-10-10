@@ -16,9 +16,18 @@ Frameworks & Cloud - Spring, Flask, Django, Docker, Kubernetes, Hadoop, Spark, K
 - Attained proficiency in managing CI/CD pipelines, IAM roles, DynamoDB and SWF workflow orchestrations.
 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Engineer @ Capgemini (_October 2020 - Decemeber 2021_)**
+- Developed and sustained a large-scale health insurance web application with React and Node.js, yielding a substantial 20% increase in user engagement.
+- Developed web interfaces, ensuring compatibility across browsers and mobile OS, delivering a unified user experience.
+- Recognized and resolved 15 minor glitches within the current system, showcasing a profound comprehension of the business ramifications tied to these issues.
+- Automated testing with Selenium and Jest, reducing testing time by 70% and improving code quality.
+
+**Data Engineer @ Capgemini (_October 2020 - Decemeber 2021_)**
+- Developed and sustained a large-scale health insurance web application with React and Node.js, yielding a substantial 20% increase in user engagement.
+- Developed web interfaces, ensuring compatibility across browsers and mobile OS, delivering a unified user experience.
+- Recognized and resolved 15 minor glitches within the current system, showcasing a profound comprehension of the business ramifications tied to these issues.
+- Automated testing with Selenium and Jest, reducing testing time by 70% and improving code quality.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
