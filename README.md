@@ -1,16 +1,20 @@
-# Data Scientist
+# Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+Languages & Databases - Python, Java, Go, C, C++, Scala, SQL, MySQL, Oracle. 
+Web Technologies - React, Node JS, JavaScript, HTML, CSS, Bootstrap, TypeScript.
+Frameworks & Cloud - Spring, Flask, Django, Docker, Kubernetes, Hadoop, Spark, Kafka, Jenkins, Figma, AWS, GCP.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., Software Engineering	| San Jose State University (_December 2023_)	 			        		
+- B.Tech., Information Technology | VNR VJIET (_September 2020_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Software Dev Engineer Intern @ Amazon Web Services (_May 2023 - August 2023_)**
+- Designed and implemented a unified wrapper workflow in Amazon RDS, effectively reducing code duplication by 70% and streamlining the process of invoking external services.
+- Leveraged the Spring Framework to architect a scalable solution, resulting in a notable 50% reduction in workflow execution time and enhanced maintainability.
+- Attained proficiency in managing CI/CD pipelines, IAM roles, DynamoDB and SWF workflow orchestrations.
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
