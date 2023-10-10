@@ -1,1 +1,8 @@
-# portfolio
+# Education
+
+### Work Experience 
+- Designed
+
+
+### Skills
+
