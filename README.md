@@ -1,4 +1,6 @@
 # Software Engineer
+A Software Engineer with nearly 2 years of work experience. Core competencies include Java, Python, React JS, Web Development, DSA, Artificial Intelligence. Passionate about solving problems and automate stuff using programming.
+
 
 #### Technical Skills: 
 Languages & Databases - Python, Java, Go, C, C++, Scala, SQL, MySQL, Oracle. 
